@@ -2,7 +2,7 @@
 - 👀 I’m interested in the web 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on just about anything
-- 📫 How to reach me 
+- 📫 Reach me on instagram @garfieldgray__ 
 
 <!---
 garfieldgray21/garfieldgray21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
